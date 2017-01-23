@@ -65,8 +65,8 @@ function color(level) {
 
 // Adapted from apps-script-oauth1/samples/KhanAcademy.gs on googlesamples (github)
 
-var CONSUMER_KEY = '3kM5tPhNerjTGsuE';
-var CONSUMER_SECRET = 'SzxZQF9sfbdNfbrM';
+var CONSUMER_KEY = ""    // Must be requested from the Khan API;
+var CONSUMER_SECRET = "" // Should be requested from the Khan API;
 
 /**
  * Authorizes and makes a request to the Khan API.
